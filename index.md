@@ -15,15 +15,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Testing
-## Testing again
-### okay thats enough testing...
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# Brayden Lingelbach's First CS193 Homework
+- I forked the repository.
+- I get a bunch of cool free github stuff.
+- It's not Java again!
 
 **Bold** and _Italic_ and `Code` text
 
